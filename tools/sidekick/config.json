@@ -1,0 +1,5 @@
+{
+  "project": "Deloitte AC Sandbox",
+  "editUrlLabel": "Document Authoring",
+  "editUrlPattern": "https://da.live/edit#/cpini/deloitte-aco-boilerplate{{pathname}}"
+}

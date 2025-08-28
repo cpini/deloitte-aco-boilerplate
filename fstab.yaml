@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/cpini/deloitte-aco-boilerplate/
+    type: markup
+
+folders:
+  /products/: /products/default
